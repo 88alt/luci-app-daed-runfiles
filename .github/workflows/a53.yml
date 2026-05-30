@@ -2,9 +2,6 @@ name: Build aarch64_cortex-a53 packages
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - kix
 
 
 permissions:
