@@ -48,7 +48,7 @@ jobs:
       matrix:
         include:
           - arch: aarch64_cortex-a53
-            sdk: openwrt-23.05
+            sdk: openwrt-23.05.4
             pkg_ext: ipk
           
 
